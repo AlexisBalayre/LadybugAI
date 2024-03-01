@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project, developed by Alexis BALAYRE, Augustin CREUSILLET, and Julien GODFROY, is a comprehensive exploration into the realm of machine learning and computer vision. Our goal is to classify two species of ladybugs - *Harmonia axyridis* and *Coccinella septempunctata* - and accurately count the spots on their backs. This task is not just academically challenging but also of ecological interest, as *Harmonia axyridis* is considered invasive in Europe.
+This project, developed by Alexis BALAYRE, Augustin CREUSILLET, and Julien GODFROY, is a comprehensive exploration into the realm of machine learning and computer vision. Our goal is to classify two species of ladybugs - _Harmonia axyridis_ and _Coccinella septempunctata_ - and accurately count the spots on their backs. This task is not just academically challenging but also of ecological interest, as _Harmonia axyridis_ is considered invasive in Europe.
 
 ## Dataset
 
@@ -19,6 +19,7 @@ We utilise a curated dataset consisting of high-resolution images of the two lad
 ## Technologies
 
 This project leverages the power of Python and several libraries, including:
+
 - **Pandas & Numpy** for data manipulation,
 - **Matplotlib & Seaborn** for data visualisation,
 - **Scikit-Learn** for machine learning algorithms and preprocessing,
