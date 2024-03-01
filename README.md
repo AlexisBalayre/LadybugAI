@@ -39,7 +39,7 @@ pip install -r requirements.txt
 The main analysis is presented in a Jupyter notebook format. To start exploring, run:
 
 ```
-jupyter notebook final_project.ipynb
+jupyter ladybug_classification.ipynb
 ```
 
 Navigate through the notebook to understand the workflow, from data loading and preprocessing to modeling and evaluation.
